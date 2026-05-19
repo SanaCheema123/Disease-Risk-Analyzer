@@ -1,0 +1,9 @@
+district,date,temperature_avg,rainfall_mm,humidity_pct,disease_cases,disease_type,prev_year_cases,flood_level,aqi
+Multan,2024-10-01,41.2,18.5,72,312,dengue,98,moderate,145
+Lahore,2024-10-01,38.8,42.0,80,187,dengue,64,low,168
+Karachi,2024-10-01,43.5,2.1,65,89,heat,34,none,120
+Faisalabad,2024-10-01,39.4,28.0,76,224,malaria,71,high,135
+Bahawalpur,2024-10-01,42.0,8.0,58,45,diarrheal,40,none,95
+Rawalpindi,2024-10-01,36.5,55.0,84,98,respiratory,52,moderate,178
+Gujranwala,2024-10-01,37.8,31.0,78,134,dengue,45,low,142
+Peshawar,2024-10-01,34.2,22.0,69,76,malaria,38,low,110
